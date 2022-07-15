@@ -8,5 +8,5 @@ Simplified ACES 1.2-based OCIO config for CG by Brian Hanke.
 
 **Installation**
 
-- Copy project files to a location of your choice.
+- Copy files to a location of your choice.
 - Point your system or application OCIO environment variable to bhgc.ocio.
