@@ -3,7 +3,7 @@ ocio_profile_version: 1
 search_path: bhgc_luts
 strictparsing: true
 
-description: Version 1.2.2, July 14 2022. Simplified ACES 1.2-based config for CG by Brian Hanke (brianrhanke@outlook.com). To install, copy this file into your aces_1.2 folder and point your OCIO environment variable to it. Released under Creative Commons CC BY 4.0. Free to share and use, with attribution.
+description: Version 2.0.0, July 15 2022. Simplified ACES 1.2-based OCIO config for CG by Brian Hanke (brianrhanke@outlook.com). To install, copy project files to a location of your choice and point your system or application OCIO environment variable to bhgc.ocio. Released under Creative Commons CC BY 4.0. Free to share and use, with attribution.
 
 roles:
   color_picking: sRGB
