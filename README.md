@@ -1,6 +1,8 @@
 # bhgc.ocio
 Simplified ACES 1.2-based OCIO config for CG by Brian Hanke.
 
+Now deprecated in favor of bhgc_v2.ocio: https://github.com/BrianHanke/bhgc_v2.ocio/
+
 **Features**
 
 - Streamlined to include only the transforms needed for CG rendering and compositing.
